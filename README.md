@@ -1,6 +1,4 @@
-##FluDo
-
-# Mobile App
+# FluDo - Mobile Application
 
 This app was designed in such a way that a user can launch, delete, start, stop, etc. other services of Docker by using the application. This application was created in a flexible that we can run almost all other RHEL8 commands.
 
